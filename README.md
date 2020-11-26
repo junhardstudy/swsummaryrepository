@@ -1,19 +1,22 @@
 # 평가용 repositories
 
-1. [summary.md](summary.md)
+교과목형
 
-2. [C프로그래밍과실습](https://github.com/junhardstudy/ProgrammingLanguage/tree/main/C%20C%2B%2B)
+* [summary.md](summary.md)
 
-3. [자바프로그래밍](https://github.com/junhardstudy/ProgrammingLanguage/tree/main/Java)
+* [COMP217001 자바프로그래밍/2018년 여름학기/권혜진](https://github.com/junhardstudy/ProgrammingLanguage/tree/main/Java)
 
-4. [자료구조](https://github.com/junhardstudy/ProgrammingLanguage/tree/main/Data%20structure)
+* [EECS201001 C프로그래밍과실습/2018년 겨울학기/이경숙](https://github.com/junhardstudy/ProgrammingLanguage/tree/main/C%20C%2B%2B)
 
-5. [운영체제](https://github.com/junhardstudy/OperatingSystem)
+* [COME331006 자료구조/2019년 2학기/정임영](https://github.com/junhardstudy/ProgrammingLanguage/tree/main/Data%20structure)
 
-6. [알고리즘](https://github.com/junhardstudy/ProgrammingLanguage/tree/main/Algorithm_1)
+* [COMP319001 알고리즘/2019년 2학기/장길진](https://github.com/junhardstudy/ProgrammingLanguage/tree/main/Algorithm_1)
 
-7. [멀티미디어시스템개론](https://github.com/junhardstudy/Multimedia)
+* [COMP312003 운영체제/2020년 1학기/강순주](https://github.com/junhardstudy/OperatingSystem)
 
-8. [데이터마이닝](https://github.com/junhardstudy/ML/tree/main/DataMining)
+* [EECS462001 멀티미디어시스템개론/2020년 1학기/박순용](https://github.com/junhardstudy/Multimedia)
 
-9. [수치해석](https://github.com/junhardstudy/ProgrammingLanguage/tree/main/Matlab/Applied%20Numerical%20Methods)
+* [ELEC469001 데이터마이닝/2020년 1학기/신미영](https://github.com/junhardstudy/ML/tree/main/DataMining)
+
+* [STAT452003 수치해석/2020년 2학기/박순용](https://github.com/junhardstudy/ProgrammingLanguage/tree/main/Matlab/Applied%20Numerical%20Methods)
+
