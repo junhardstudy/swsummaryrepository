@@ -1,6 +1,16 @@
-# 평가용 repositories
+# 정리용 Repositories
 
-교과목형
+---
+
+## 프로젝트
+
+* [심박수 측정 어플리케이션 개발](https://github.com/LeeJin0527/RealtimeBloodPressureMeasurement)
+
+
+---
+
+
+## 교과목형
 
 * [summary.md](summary.md)
 
